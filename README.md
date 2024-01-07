@@ -1,4 +1,3 @@
-# GameArena
 # Game-Arena
 /* created by Debajyoti Roy */
 
